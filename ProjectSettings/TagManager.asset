@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Gelatina
+  - BaldosaRota
+  - GelatinaReparadora
+  - Enemigo
+  - ActivaDin
+  - Din
+  - GelatinaTotal
+  - Dynamic
+  - Baldosas
+  - ColliderDestructor
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Baldosas
+  - BaldosasRotas
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Fondo
+    uniqueID: 4241067359
+    locked: 0
+  - name: Canvas
+    uniqueID: 768683293
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
